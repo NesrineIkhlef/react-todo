@@ -1,14 +1,12 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "todo": [
+    { "id": 1, "title": "Post 1", "tab": "Homework", "done": true },
+    { "id": 2, "title": "Post 2", "tab": "Todo1", "done": false },
+    { "id": 3, "title": "Post 3", "tab": "Todo2", "done": false }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "tabs": [
+    { "id": 1, "name": "Homework"},
+    { "id": 2, "name": "Todo1" },
+    { "id": 3, "name": "Todo2" }
+  ]
 }
