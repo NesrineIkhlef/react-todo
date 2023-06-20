@@ -1,1 +1,5 @@
-
+{
+        {title: 'My new website', body: 'Lorem ipsum ...', author: 'Nesrine', id: 1},
+        {title: 'Welcome party', body: 'Lorem ipsum ...', author: 'Lydia', id: 2},
+        {title:'I love my life', body: 'I m proud of myself', author: 'Nesrine', id: 3}
+}
